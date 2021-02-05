@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+    margin: 10px;
+  }
+
+td, th 	{ border: 1px solid #999;
+        padding: 5px;
+     }
+    
+td:hover {   
+         background: lightgray;
+        }
+tbody tr:hover {  
+    background: lightgray;
+}
+
+#students th {
+    padding: 15px 25px;
+    text-align: center;
+    background-color:rgb(84, 84, 122);
+    color: white;
+  }
+
